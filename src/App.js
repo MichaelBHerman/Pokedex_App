@@ -3,7 +3,7 @@ import { Button } from 'react-bootstrap';
 import PokemonDisplay from './components/PokemonDisplay';
 import HomePage from './pages/home';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
-import TrainerCard from './components/trainercard';
+
 
 
 function App() {
