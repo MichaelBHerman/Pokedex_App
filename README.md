@@ -1,4 +1,4 @@
-A Pokedex Application I created using the pokemon API (http://pokeapi.co/api/v2).
+A Pokedex Application I created using the pokemon API (http://pokeapi.co/api/v2).</br>
 Technologies used to create this application include:
 ReactJS
 React-router-dom
