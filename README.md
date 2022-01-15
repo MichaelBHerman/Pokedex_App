@@ -1,9 +1,9 @@
 A Pokedex Application I created using the pokemon API (http://pokeapi.co/api/v2).</br>
-Technologies used to create this application include:
-ReactJS
-React-router-dom
-React-boostrap
-CSS
+Technologies used to create this application include:</br>
+ReactJS</br>
+React-router-dom</br>
+React-boostrap</br>
+CSS</br>
 
 
 ![pokedexsnip2](https://user-images.githubusercontent.com/89651714/149607960-d17bdd3d-e5d9-4c30-a4f6-c39b9d298538.PNG)
